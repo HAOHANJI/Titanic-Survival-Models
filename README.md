@@ -1,19 +1,9 @@
-# ecs171-project-team5
+# ecs171-project
 
-Overleaf LaTeX Document: https://www.overleaf.com/8891725222dzkfqtpksgpy
+## Titanic Survival Modeling and Analysis based on Machine Learning    	Jun. – Jul. 2021
 
-Shared Google Drive: https://drive.google.com/drive/u/3/folders/0AIf5hPH4ooaDUk9PVA
+Employed Python to analyze and compare the pros and cons of various machine learning models of Logistic Regression, K-nearest Neighbor, Neural Network, Random Forest, and Support Vector Machine, etc.  
 
-Team Members: 
-- Tabib Chowdhury
-- Mitchell Geringer
-- Shiwei He
-- Haohan Ji
-- Aly Kapasi
-- Radhika Kulkarni
-- Zhixing Liu
-- Jean Pagaduan
-- Sivani Voruganti (team lead)
-- Vicky Yin
-- Seok Ki Yoon
-- Chenrui Zhang
+Utilized a variety of metrics to analyze the efficiency of five models and visualized the training results with graphs  
+
+Concluded the optimal model of Support Vector Machine, compared with previous research to determine the effectiveness of the project result.  
